@@ -1,0 +1,42 @@
+[
+    {
+        "cardSrc": "../assets/cards/clubs2.png",
+        "cardName": "clubs2"
+    },
+    {
+        "cardSrc": "../assets/cards/clubs3.png",
+        "cardName": "clubs3"
+    },
+    {
+        "cardSrc": "../assets/cards/clubs4.png",
+        "cardName": "clubs4"
+    },
+    {
+        "cardSrc": "../assets/cards/clubs5.png",
+        "cardName": "clubs5"
+    },
+    {
+        "cardSrc": "../assets/cards/clubs6.png",
+        "cardName": "clubs6"
+    },
+    {
+        "cardSrc": "../assets/cards/clubs7.png",
+        "cardName": "clubs7"
+    },
+    {
+        "cardSrc": "../assets/cards/clubs8.png",
+        "cardName": "clubs8"
+    },
+    {
+        "cardSrc": "../assets/cards/clubs9.png",
+        "cardName": "clubs9"
+    },
+    {
+        "cardSrc": "../assets/cards/clubs10.png",
+        "cardName": "clubs10"
+    },
+    {
+        "cardSrc": "../assets/cards/clubsA.png",
+        "cardName": "clubsA"
+    }
+]
